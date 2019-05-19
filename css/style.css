@@ -1,0 +1,81 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-image:url("../base/landing-page-wireframe-example-long-1408x3445.jpg");
+}
+
+header{
+	background-image: url("img/velizar-ivanov-570410-unsplash.jpg");
+	background-size: 100%;
+	height: 800px;
+	background-repeat: no-repeat;
+	height: 585px;
+/*    opacity: 0.4; */
+    text-align: center;
+}
+
+h1{
+	padding-top: 90px;
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	text-shadow: 3px 3px 3px black;
+	color: white;
+}
+
+h2{
+	padding-top: 15px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	text-shadow: 2px 2px 2px #e91e63;
+}
+
+input{
+	padding: 20px;
+	padding-right: 115px;
+	margin-right: 40px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: bisque;
+	border-style: double;
+	border-color: pink;
+}
+
+section{
+	height: 565px;
+	background-color: #faf5d5;
+	opacity: 0.4;
+	text-align: center;
+}
+
+#logo{
+	padding-top: 55px;
+	color: white;
+	text-shadow: 3px 3px 3px black;
+	font-family: 'Pacifico', cursive;
+}
+
+#h2_section{
+	color: #ef5abbfc;
+	text-shadow: none;
+}
+
+.pedido{
+	padding: 50px 93px 0px 158px;
+	display: flex;
+	justify-content: space-around; 
+}
+
+.imagens_doces{
+	width: 80px;
+
+}
+
+.section_align{
+	display: flex;
+	justify-content: space-around;
+}
+
+
+
